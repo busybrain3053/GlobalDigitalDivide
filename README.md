@@ -1,6 +1,6 @@
 # 🌍 DIGITAL DIVIDE DASHBOARD
 
-![Dashboard Preview](images/Global Ditital inclusion dashboard.png)
+![Dashboard Preview](images/Global_Ditital_inclusion_dashboard.png)
 
 
 ### Can you really work from anywhere
