@@ -13,7 +13,7 @@ This project explores the relationship between **internet accessibility**, **aff
 
 ## 📊 Project Overview
 
-**Python** – Cleaned, merged, and prepared datasets from global broadband and World Bank sources  
+**Python** – Extracted datasets directly from the World Bank API,Cleaned, merged, and prepared datasets from global broadband and World Bank sources  
 **SQL (MySQL Workbench)** – Structured tables, validated data integrity, and performed exploratory queries  
 **Power BI** – Created interactive dashboards with affordability index calculations, visual analytics, and three-year forecasting  
 
