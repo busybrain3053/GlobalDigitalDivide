@@ -1,5 +1,8 @@
 # 🌍 DIGITAL DIVIDE DASHBOARD
 
+![Dashboard Preview](images/dashboard_preview.png)
+
+
 ### Can you really work from anywhere
 
 This project explores the relationship between **internet accessibility**, **affordability**, and **income** across countries, asking a simple but powerful question:
