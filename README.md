@@ -1,6 +1,6 @@
 # 🌍 DIGITAL DIVIDE DASHBOARD
 
-![Dashboard Preview](images/global_digital_divide.png)
+![Dashboard Preview](images/DIGITAL_DIVIDED.png)
 
 
 ### Can you really work from anywhere
