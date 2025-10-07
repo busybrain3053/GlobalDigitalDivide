@@ -66,5 +66,4 @@ When internet affordability rises, so does access to education, jobs, and innova
 
 ---
 
-## 📂 Repository Structure
 
